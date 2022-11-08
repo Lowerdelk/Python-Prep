@@ -8,6 +8,8 @@
   <iframe src="https://player.vimeo.com/video/683356760" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
+<h1>Holi</h1>
+
 #### Preparando tu computadora
 Antes de comenzar deberás descargar en tu computadora las siguientes herramientas de trabajo:
 1. Editor de texto
